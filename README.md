@@ -1,4 +1,6 @@
 orbslam3_ros
+
+此包为ROS与orb-SLAM3的交互接口
 ============
 
 This package is meant as a support package to [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) and provides (1) a simple ROS wrapper example, and (2) a method of exposing ORB_SLAM3 as a library to ROS packages.
